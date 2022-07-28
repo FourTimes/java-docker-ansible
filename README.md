@@ -118,5 +118,6 @@ sudo docker exec -ti jenkins-sonarqube-1 bash
 cat /var/jenkins_home/secrets/initialAdminPassword
 exit
 ```
-
 copy the password and login to jenkins
+
+![image](https://user-images.githubusercontent.com/91359308/181616969-89bca2c7-2269-4794-8d0d-94960f2a5866.png)
