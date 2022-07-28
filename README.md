@@ -82,6 +82,9 @@ it will request to change the default password.
 
 ![image](https://user-images.githubusercontent.com/91359308/181612050-6b8113fa-b00c-4181-9d0f-e4bf49370801.png)
 
+![image](https://user-images.githubusercontent.com/91359308/181612251-1d7f9448-882b-4210-afce-a245d15c146d.png)
+
+
 
 
 _jenkins installtion_
