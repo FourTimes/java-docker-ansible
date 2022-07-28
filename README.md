@@ -121,3 +121,6 @@ exit
 copy the password and login to jenkins
 
 ![image](https://user-images.githubusercontent.com/91359308/181616969-89bca2c7-2269-4794-8d0d-94960f2a5866.png)
+
+![image](https://user-images.githubusercontent.com/91359308/181617606-47b906dc-7e50-4d0b-bbf7-8513e9a615ef.png)
+
