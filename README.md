@@ -116,6 +116,7 @@ _how to find the jenkins default password_
 ```bash
 sudo docker exec -ti jenkins-sonarqube-1 bash
 cat /var/jenkins_home/secrets/initialAdminPassword
+exit
 ```
 
 copy the password and login to jenkins
