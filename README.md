@@ -114,6 +114,8 @@ open your browser with http://192.168.0.10:8080 Once load the jenkins web pages 
 _how to find the jenkins default password_
 
 ```bash
-sudo docker exec -ti jenkins_conatiner_name bash
-cat 
+sudo docker exec -ti jenkins-sonarqube-1 bash
+cat /var/jenkins_home/secrets/initialAdminPassword
 ```
+
+copy the password and login to jenkins
