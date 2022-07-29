@@ -18,7 +18,7 @@ _docker installation commands_
 
 ```bash
 echo -e "\e[1;31mdocker installation"
-sudo apt-get update
+sudo apt update
 sudo apt install curl git -y
 sudo apt-get install ca-certificates curl gnupg lsb-release -y
 sudo mkdir -p /etc/apt/keyrings
