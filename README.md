@@ -174,5 +174,5 @@ ssh username@192.168.0.10
 vim ~/.ssh/authorized_keys # paste the id_rsa.pub key from top of the command
 exit
 ```
-Note: If this is not executable you cannot connect from ansible server or jenkins to target machine.
+Note: If this is not executable you cannot connect from ansible server or jenkins to target machine. Here jenkins server act as ansible server.
 
