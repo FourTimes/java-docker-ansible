@@ -80,15 +80,26 @@ _default credentials_
 
 it will request to change the default password.
 
+`1`
+
 ![image](https://user-images.githubusercontent.com/91359308/181612050-6b8113fa-b00c-4181-9d0f-e4bf49370801.png)
 
+`2`
 ![image](https://user-images.githubusercontent.com/91359308/181612251-1d7f9448-882b-4210-afce-a245d15c146d.png)
+
+`3`
 
 ![image](https://user-images.githubusercontent.com/91359308/181612437-b1ea02b7-0d61-4b12-88a5-9bedb10dca81.png)
 
+`4`
+
 ![image](https://user-images.githubusercontent.com/91359308/181612532-cbc57eb6-21ce-4299-a956-ddd3fe5285ae.png)
 
+`5`
+
 ![image](https://user-images.githubusercontent.com/91359308/181612656-a719c6b7-31ab-475d-ae27-f55633d5b460.png)
+
+`6`
 
 ![image](https://user-images.githubusercontent.com/91359308/181612873-46a2e4eb-252a-414f-a14f-8c573c698ad2.png)
 
