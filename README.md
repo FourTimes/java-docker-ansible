@@ -150,4 +150,7 @@ copy the password and login to jenkins
 
 ![image](https://user-images.githubusercontent.com/57703276/181783138-f2451da6-5d98-4f04-b3c7-c360368f3962.png)
 
+`6` after login you can see the page look like this
+
+![image](https://user-images.githubusercontent.com/57703276/181784834-b9a69eb3-2b40-456e-9227-36975bee5e9f.png)
 
