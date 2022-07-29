@@ -146,5 +146,8 @@ copy the password and login to jenkins
 
 ![image](https://user-images.githubusercontent.com/91359308/181618030-2918a4b7-23ec-4745-ae7e-6edd7ca18444.png)
 
+`5` Jenkins login page console
+
+![image](https://user-images.githubusercontent.com/57703276/181783138-f2451da6-5d98-4f04-b3c7-c360368f3962.png)
 
 
