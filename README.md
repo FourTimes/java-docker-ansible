@@ -111,7 +111,7 @@ _jenkins installtion_
 ```bash
 cd ..
 cd jenkins
-sudo bash bash.sh
+sudo bash jenkins-installation.sh
 ```
 
 once execute the command you can validate the docker container status. It should be up and running.
