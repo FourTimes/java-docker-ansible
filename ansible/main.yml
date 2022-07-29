@@ -3,9 +3,11 @@
   connection: 192.168.0.108
   remote_user: dodo
   tasks:
-    - name: deploy nginx docker container
-      shell: |
-        docker stop hello 
-        docker rm -f hello
-        docker rmi ravimanickavasagam/hello-java 
-        docker run -d -p 80:8080 --name hello ravimanickavasagam/hello-java 
+    - name: Create a java container
+      community.docker.docker_container:
+        name: java
+        image: jjino/java:apps
+        state: started
+        restart: yes
+        ports:
+          - "80:8080"
