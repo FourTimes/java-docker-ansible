@@ -130,11 +130,19 @@ exit
 
 copy the password and login to jenkins
 
+`1` SELECT first option
+
 ![image](https://user-images.githubusercontent.com/91359308/181616969-89bca2c7-2269-4794-8d0d-94960f2a5866.png)
+
+`2` It will install the plugin nased on the inital setup
 
 ![image](https://user-images.githubusercontent.com/91359308/181617606-47b906dc-7e50-4d0b-bbf7-8513e9a615ef.png)
 
+`3`  Create the initial admin user setup
+
 ![image](https://user-images.githubusercontent.com/91359308/181617909-a5c5c212-8bce-4223-bf02-8942106819b9.png)
+
+`4` Configure the instance configuration
 
 ![image](https://user-images.githubusercontent.com/91359308/181618030-2918a4b7-23ec-4745-ae7e-6edd7ca18444.png)
 
