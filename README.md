@@ -155,9 +155,9 @@ copy the password and login to jenkins
 ![image](https://user-images.githubusercontent.com/57703276/181784834-b9a69eb3-2b40-456e-9227-36975bee5e9f.png)
 
 
-create the virtual machine deployment process
+**create the virtual machine deployment process**
 
-Create the ssh-keys for ley less authetication
+_Create the ssh-keys for key less authetication_
 
 ```bash
 sudo docker exec -ti jenkins-sonarqube-1 bash
