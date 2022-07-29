@@ -154,3 +154,25 @@ copy the password and login to jenkins
 
 ![image](https://user-images.githubusercontent.com/57703276/181784834-b9a69eb3-2b40-456e-9227-36975bee5e9f.png)
 
+
+create the virtual machine deployment process
+
+Create the ssh-keys for ley less authetication
+
+```bash
+sudo docker exec -ti jenkins-sonarqube-1 bash
+ssh-keygen
+cat /root/.ssh/id_rsa.pub
+exit
+
+```
+
+login into terget machine 
+
+```bash
+ssh username@192.168.0.10
+vim ~/.ssh/authorized_keys # paste the id_rsa.pub key from top of the command
+exit
+```
+Note: If this is not executable you cannot connect from ansible server or jenkins to target machine.
+
