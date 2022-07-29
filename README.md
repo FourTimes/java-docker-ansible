@@ -85,10 +85,14 @@ it will request to change the default password.
 ![image](https://user-images.githubusercontent.com/91359308/181612050-6b8113fa-b00c-4181-9d0f-e4bf49370801.png)
 
 `2`
+
+create the sonar project click **Manually**
+
 ![image](https://user-images.githubusercontent.com/91359308/181612251-1d7f9448-882b-4210-afce-a245d15c146d.png)
 
 `3`
 
+give the project name and 
 ![image](https://user-images.githubusercontent.com/91359308/181612437-b1ea02b7-0d61-4b12-88a5-9bedb10dca81.png)
 
 `4`
